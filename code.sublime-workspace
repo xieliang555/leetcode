@@ -1,0 +1,1027 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"reO",
+				"reOrderArray"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"nu",
+				"num1"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"re",
+				"reset"
+			],
+			[
+				"S",
+				"Sum_Solution"
+			],
+			[
+				"a",
+				"add"
+			],
+			[
+				"ret",
+				"ret"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"cou",
+				"countZero"
+			],
+			[
+				"co",
+				"countGap"
+			],
+			[
+				"n",
+				"numbers"
+			],
+			[
+				"pri",
+				"printProbability"
+			],
+			[
+				"tm",
+				"tmp6"
+			],
+			[
+				"t",
+				"tmp4"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"str",
+				"strTmp"
+			],
+			[
+				"Rev",
+				"ReverseWord"
+			],
+			[
+				"rev",
+				"ReverseWord"
+			],
+			[
+				"s",
+				"sum"
+			],
+			[
+				"bi",
+				"bitsSum"
+			],
+			[
+				"ind",
+				"indexBitIs1"
+			],
+			[
+				"I",
+				"IsBalanced_Solution"
+			],
+			[
+				"de",
+				"depthTree"
+			],
+			[
+				"k",
+				"k"
+			],
+			[
+				"pT",
+				"pRoot"
+			],
+			[
+				"mi",
+				"mid-1"
+			],
+			[
+				"get",
+				"getIndex"
+			],
+			[
+				"m",
+				"mid"
+			],
+			[
+				"p",
+				"pShort"
+			],
+			[
+				"len",
+				"len1"
+			],
+			[
+				"le",
+				"len2"
+			],
+			[
+				"pH",
+				"pHead2"
+			],
+			[
+				"In",
+				"InversePairs"
+			],
+			[
+				"pM",
+				"pMultiply5"
+			],
+			[
+				"max",
+				"maximumGift2"
+			],
+			[
+				"do",
+				"downNum"
+			],
+			[
+				"bit",
+				"bit1"
+			],
+			[
+				"coun",
+				"count1"
+			],
+			[
+				"di",
+				"digitAtIndex"
+			],
+			[
+				"T",
+				"Task44_digitAtIndex_1"
+			],
+			[
+				"to",
+				"to_string"
+			],
+			[
+				"stdlin",
+				"cstdlib\tstandard header"
+			],
+			[
+				"ma",
+				"maxSum"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"set",
+				"set_tese"
+			],
+			[
+				"getLeastKNumbers_",
+				"getLeastKNumbers_1"
+			],
+			[
+				"vec",
+				"vecotr"
+			],
+			[
+				"M",
+				"MoreThanHalfNum_1"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"R",
+				"ReconnectNodes"
+			],
+			[
+				"push",
+				"push_back"
+			],
+			[
+				"edn",
+				"endX"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"r",
+				"rows"
+			],
+			[
+				"pR",
+				"pRoot1"
+			],
+			[
+				"pN",
+				"pNode"
+			],
+			[
+				"rec",
+				"reverseCore"
+			],
+			[
+				"L",
+				"ListNode"
+			],
+			[
+				"big",
+				"begin"
+			],
+			[
+				"sca",
+				"scanInteger"
+			],
+			[
+				"match",
+				"matchCore"
+			],
+			[
+				"matc",
+				"matchCore"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"nex",
+				"next"
+			],
+			[
+				"next",
+				"nextNode"
+			],
+			[
+				"prin",
+				"printNum"
+			],
+			[
+				"inc",
+				"incemental"
+			],
+			[
+				"INT",
+				"INT_MAX"
+			],
+			[
+				"IN",
+				"INT_MAX"
+			],
+			[
+				"tim",
+				"timeOf3"
+			],
+			[
+				"clo",
+				"col"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"cl",
+				"cols"
+			],
+			[
+				"col",
+				"col"
+			],
+			[
+				"Fib",
+				"Fibonacci2"
+			],
+			[
+				"F",
+				"Fibonacci"
+			],
+			[
+				"sta",
+				"stack2"
+			],
+			[
+				"ion",
+				"inoRight"
+			],
+			[
+				"pre",
+				"preRight"
+			],
+			[
+				"ino",
+				"inoLeft"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"te",
+				"test1"
+			],
+			[
+				"D",
+				"Duplication2"
+			],
+			[
+				"tes",
+				"test3"
+			],
+			[
+				"ass",
+				"ass3"
+			],
+			[
+				"ms",
+				"mergeSort"
+			],
+			[
+				"ins",
+				"insertSortList"
+			],
+			[
+				"b",
+				"bubbleSort"
+			],
+			[
+				"min",
+				"min_ind_cur"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"INT_",
+				"INT_MAX"
+			],
+			[
+				"is",
+				"isalnum"
+			],
+			[
+				"fir",
+				"firstMP"
+			],
+			[
+				"vector",
+				"vector\tstandard header"
+			],
+			[
+				"Lis",
+				"ListNode"
+			],
+			[
+				"inser",
+				"insertionSortList"
+			],
+			[
+				"pr",
+				"pre"
+			],
+			[
+				"vect",
+				"vector\tstandard header"
+			],
+			[
+				"bes",
+				"best_loss\tstatement"
+			],
+			[
+				"bat",
+				"batches_per_epoch\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c++ shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/c++ shell.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c++ shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c++ shell.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c++ shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++11.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c++11shell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++11shell.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c++11.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/c++.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"LuaLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/User/c++ shell.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"conda",
+				"Anaconda: Vagrant Enable"
+			],
+			[
+				"install",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instak",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/xieliang/Desktop/剑指offer第二版/code"
+	],
+	"file_history":
+	[
+		"/Users/xieliang/Desktop/剑指offer第二版/二刷/数组/39_数组中出现次数超过一半的数字.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/一刷/Task39_moreThanHalfNum.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/二刷/数组/21_调整数组顺序奇数位于偶数前.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/二刷/数组/05_替换空格.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/一刷/Task05.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Test2.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task1.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task66_multiply.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task65_Add.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task64_4_Sum.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task64_3_Sum.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Test_stl.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task64_2_Sum.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task64_Sum.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task63_MaxDiff.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task62.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task_61_isContinuous.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task60_printProbability.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task59_maxInWindow.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task09.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task58_2_LeftRotateString.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task58_ReverseSentence.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task57_2_FindContinuousSequence.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task57_FindNumbersWIthSum.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task56_2.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task56_FindNumsAppearOnce.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task55_isBalanceTree.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task55_DepthOfTree.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task54_KthNode.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task53_GetNumSameAsIndex.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task53_MissingNum.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task53_GetNumOfK.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task52_FindFirstCommonNode.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task51_inversePairs.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task50_1_firstNotRepeatingCharFromIostream.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task50_firstNotRepeatingChar.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task49_uglyNum.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task48_longestSubstring.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task47_maximumGift.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/CodingInterviewChinese2/46_TranslateNumbersToStrings/Task47.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task46_getTranslationCount.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task45_printMinNum.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task44_digitAtIndex.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task43_numberOf1Between1AndN.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task41_medianOfDataStream.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task40_getLeastKNumbers.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task42_maximumSubArray.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task41_maximumSubsequence.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task41.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task39_moreThanHalfNum.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task38_permutation.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task37_serialize.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task36_convert.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task35_cloneComplexList.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task34_findPath.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task_33_isPostTraversalOfBST.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task32_leverTraversal.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task31_isPopOrder.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task30_stackWithMin.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task29_printMatrix.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task28_symmetrical.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task27_BinaryTreeMirror.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task26_hasSubtree.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task25_mergeList.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task24_reverseList.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task24_1reverseList.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task23_entryNodeOfLoop.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task22_findKthToTail.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task21_reorderArray.cpp",
+		"/Users/xieliang/Library/Application Support/Sublime Text 3/Packages/User/c++11.sublime-build",
+		"/Users/xieliang/Library/Application Support/Sublime Text 3/Packages/User/c++11shell.sublime-build",
+		"/Users/xieliang/Library/Application Support/Sublime Text 3/Packages/User/c++11shell-build",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task20_isNumeric.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task19_REMatch.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Test.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task18_1_deleteDuplication.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task18_deleteListNode.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task17_1_print1ToMaxOfNDigits.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/untitled",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task17_print1ToMaxOfNDigits.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task16_power.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task15.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/CodingInterviewChinese2/14_CuttingRope/Task14.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/EightQueens.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task13.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task12.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task11.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Fibonacci.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Task9.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/GetNextTreeNode.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/ReconstructBinaryTree.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/ReversePrintList.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/ReplaceBlank.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/TwoDArrayFind.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/TwoDArrayFind2.cpp",
+		"/Users/xieliang/Desktop/leetCode/所有排序/TwoDArrayFind.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Duplication3.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Duplication2.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Singleton.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/AssignOperator.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/测试用例/Duplication.cpp",
+		"/Users/xieliang/Desktop/剑指offer第二版/CodingInterviewChinese2/02_Singleton/Program.cs",
+		"/Users/xieliang/Desktop/剑指offer第二版/CodingInterviewChinese2/01_AssignmentOperator/AssignmentOperator.cpp",
+		"/Users/xieliang/Documents/浙大/项目/kpca/IAI2019/Conference-LaTeX-template_7-9-18/conference_041818.tex",
+		"/Users/xieliang/Desktop/leetCode/所有排序/QuickSort.cpp",
+		"/Users/xieliang/Desktop/leetCode/所有排序/MergeSort.cpp",
+		"/Users/xieliang/Desktop/leetCode/test.cpp",
+		"/Users/xieliang/Desktop/leetCode/排序/SortList_merge_.cpp",
+		"/Users/xieliang/Desktop/leetCode/所有排序/ShellSort.cpp",
+		"/Users/xieliang/Desktop/leetCode/所有排序/BinaryInsertSort.cpp",
+		"/Users/xieliang/Desktop/leetCode/所有排序/InsertSort.cpp",
+		"/Users/xieliang/Desktop/leetCode/所有排序/BubbleSort.cpp",
+		"/Users/xieliang/Desktop/leetCode/字符串/AddBinary.cpp",
+		"/Users/xieliang/Desktop/leetCode/字符串/StringToInteger_.cpp",
+		"/Users/xieliang/Desktop/leetCode/字符串/ValidPalindrome.cpp",
+		"/Users/xieliang/Desktop/leetCode/字符串/ImplementStr.cpp",
+		"/Users/xieliang/Desktop/leetCode/SortList_merge_.cpp",
+		"/Users/xieliang/Desktop/leetCode/SortColors_.cpp",
+		"/Users/xieliang/Desktop/leetCode/FirstMissingPositive_.cpp",
+		"/Users/xieliang/Library/Application Support/Sublime Text 3/Packages/User/c++ shell.sublime-build",
+		"/Users/xieliang/Desktop/leetCode/MergekSortedList.cpp",
+		"/Users/xieliang/Desktop/leetCode/InsertionSortList.cpp",
+		"/Users/xieliang/Desktop/leetCode/MergeTwoSortedList.cpp",
+		"/Users/xieliang/Documents/浙大/leetCode/MergeSortedArray.cpp",
+		"/Users/xieliang/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/xieliang/Documents/浙大/leetCode/Merge sorted array.cpp",
+		"/Users/xieliang/Library/Application Support/Sublime Text 3/Packages/User/c++.sublime-build",
+		"/Users/xieliang/Documents/浙大/leetCode/Merge sorted array"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 215.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "code.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/RL/cs294/code/cs294.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
